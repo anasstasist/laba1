@@ -14,10 +14,6 @@ test commit
 
 
 sitairis test
-<<<<<<< HEAD
 
 
 branch main
-=======
-new branch
->>>>>>> new
